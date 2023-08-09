@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Handjet&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC&display=swap');
 :root {
   --font-family: Helvetica, Arial, sans-serif;
   --standard-padding: 1rem;
@@ -76,6 +77,11 @@ h1 {
 }
 .lastUpdated {
   font-family: 'Handjet', cursive, Arial, sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.timeOfDay {
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
 }
